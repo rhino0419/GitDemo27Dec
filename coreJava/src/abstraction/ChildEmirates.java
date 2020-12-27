@@ -23,6 +23,8 @@ public class ChildEmirates extends ParentAirCraft {
 		System.out.println("Hi this is git test3");
 		System.out.println("Hi this is git test4");
 		System.out.println("India");
+		System.out.println("USA");
+		System.out.println("China");
  
 
 	}
