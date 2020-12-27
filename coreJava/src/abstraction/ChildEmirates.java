@@ -16,6 +16,10 @@ public class ChildEmirates extends ParentAirCraft {
 	public void bodyColor() {
 		// TODO Auto-generated method stub
 		System.out.println("Body color of emirates is red");
+		
+		System.out.println("Hi this is git test1");
+		System.out.println("Hi this is git test2");
+		System.out.println("Hi this is git test3");
 	}
 
 }
