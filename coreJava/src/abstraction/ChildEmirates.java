@@ -26,6 +26,9 @@ public class ChildEmirates extends ParentAirCraft {
 		System.out.println("USA");
 		System.out.println("China");
 		System.out.println("AntarticA");
+		
+		System.out.println("Develop1");
+		System.out.println("Develop2");
 
 	}
 
